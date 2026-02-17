@@ -1,26 +1,35 @@
 # Hi 👋 I'm Prajjit
 
 <p align="center">
- ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Building+AI+Systems;Data+Science+Enthusiast)
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Building+AI+Systems;Data+Science+Enthusiast"/>
 </p>
- 
-> *Making data behave since 2023 (and debugging it daily).*
 
 <p align="center">
+  <i>Making data behave since 2023 (and debugging it daily).</i>
+</p>
+
+---
+
 ## 📈 GitHub Analytics
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Bloop31&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Bloop31&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
 ## 📊 GitHub Overview
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bloop31&theme=tokyonight)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bloop31&theme=tokyonight"/>
+</p>
 
-![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bloop31&theme=tokyonight)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bloop31&theme=tokyonight"/>
+</p>
 
 ---
-</p>
+
 
 ## 🔬 Areas of Interest
 
