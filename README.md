@@ -48,9 +48,7 @@
 ![R](https://img.shields.io/badge/R-Statistics-blueviolet)
 
 ### 📊 Data & ML
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-yellow)
-![SHAP](https://img.shields.io/badge/SHAP-Explainable%20AI-red)
+![Python Libraries](https://img.shields.io/badge/Python-Libraries-Data%20Analysis-green)
 ![SQL](https://img.shields.io/badge/SQL-Database-orange)
 
 ### ☁️ Tools & Platforms
