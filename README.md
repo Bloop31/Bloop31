@@ -1,16 +1,82 @@
-## Hi there 👋
+# Hi 👋 I'm Prajjit
 
-<!--
-**Bloop31/Bloop31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Building+AI+Systems;Data+Science+Enthusiast)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+> *Making data behave since 2023 (and debugging it daily).*
+
+
+## 🔬 Areas of Interest
+
+- Machine Learning & Deep Learning
+- NLP & LLM-based Systems
+- MLOps & Model Monitoring
+- Data Engineering & Automation
+- Anomaly Detection & Time-Series Analysis
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Programming
+![Python](https://img.shields.io/badge/Python-Advanced-blue)
+![C++](https://img.shields.io/badge/C++-Intermediate-lightgrey)
+![Java](https://img.shields.io/badge/Java-Intermediate-orange)
+![R](https://img.shields.io/badge/R-Statistics-blueviolet)
+
+### 📊 Data & ML
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-yellow)
+![SHAP](https://img.shields.io/badge/SHAP-Explainable%20AI-red)
+![SQL](https://img.shields.io/badge/SQL-Database-orange)
+
+### ☁️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-Version%20Control-red)
+![GitHub](https://img.shields.io/badge/GitHub-Projects-black)
+![AWS](https://img.shields.io/badge/AWS-Basic-ff9900)
+![VS Code](https://img.shields.io/badge/VSCode-Editor-blue)
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 ProActiveSys — AI-Driven System Failure Prediction
+AI-driven monitoring system that detects OS and network anomalies using time-series modeling to prevent system failures before escalation.
+
+### 🔹 AutoHealDB — Agentic AI Self-Healing Data Pipeline
+LLM-based autonomous system that detects schema drift and repairs pipelines via automated SQL migrations.
+
+### 🔹 ReasonGuard — ML Explanation Stability Monitor
+SHAP-based monitoring system detecting decision drift and feature collapse beyond accuracy metrics.
+
+### 🔹 Data Cleaning & CSV Analysis Tool
+GUI-based Python application enabling non-technical users to clean and analyze datasets using Pandas and Tkinter.
+
+---
+
+## 🏆 Achievements
+
+- 🥇 Hacktoberfest Open-Source Contributor (7 PRs merged)
+- 🏪 Built delivery-route optimization model (Walmart Sparkathon 2025)
+- 🧊 Cold Chain Monitoring Solution — Top-5 finalist at IIC Hackathon
+- 📜 Oracle Generative AI Professional
+
+---
+
+## 📈 GitHub Analytics
+
+![Prajjit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bloop31&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bloop31&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 📫 Connect With Me
+
+📧 basuprajjit31@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/prajjit-basu-6329b3284/
+
+---
+
+⭐ “Building intelligent systems that move beyond prediction to automation.”
