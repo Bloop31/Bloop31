@@ -65,9 +65,10 @@ GUI-based Python application enabling non-technical users to clean and analyze d
 
 ## 📈 GitHub Analytics
 
-![Prajjit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bloop31&show_icons=true&theme=tokyonight&hide_border=true)
+![Prajjit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bloop31&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bloop31&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bloop31&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+
 
 ---
 
