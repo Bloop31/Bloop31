@@ -18,8 +18,9 @@
 
 ## 📊 GitHub Overview
 
-![Public Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=Public%20Repos&query=public_repos&url=https://api.github.com/users/Bloop31&style=for-the-badge)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bloop31&theme=tokyonight)
 
+![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bloop31&theme=tokyonight)
 
 ---
 
