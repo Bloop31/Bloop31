@@ -16,6 +16,13 @@
 
 ---
 
+## 📊 GitHub Overview
+
+![Repos](https://img.shields.io/github/repos-count/Bloop31?color=blue&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/Bloop31?style=for-the-badge)
+
+---
+
 ## 🛠 Tech Stack
 
 ### 💻 Programming
