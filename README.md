@@ -9,11 +9,10 @@
 
 ## 🔬 Areas of Interest
 
-- Machine Learning & Deep Learning
-- NLP & LLM-based Systems
-- MLOps & Model Monitoring
-- Data Engineering & Automation
-- Anomaly Detection & Time-Series Analysis
+- Machine Learning
+- Data Engineering & Self-Healing Pipelines  
+- Anomaly Detection & Predictive Intelligence
+- Data Reliability
 
 ---
 
