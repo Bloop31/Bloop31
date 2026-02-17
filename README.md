@@ -6,13 +6,9 @@
  
 > *Making data behave since 2023 (and debugging it daily).*
 
+## 📈 GitHub Analytics
 
-## 🔬 Areas of Interest
-
-- Machine Learning
-- Data Engineering & Self-Healing Pipelines  
-- Anomaly Detection & Predictive Intelligence
-- Data Reliability
+![GitHub Streak](https://streak-stats.demolab.com?user=Bloop31&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -24,9 +20,12 @@
 
 ---
 
-## 📈 GitHub Analytics
+## 🔬 Areas of Interest
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Bloop31&theme=tokyonight&hide_border=true)
+- Machine Learning
+- Data Engineering & Self-Healing Pipelines  
+- Anomaly Detection & Predictive Intelligence
+- Data Reliability
 
 ---
 
