@@ -18,7 +18,8 @@
 
 ## 📊 GitHub Overview
 
-![Stars](https://img.shields.io/github/stars/Bloop31?affiliations=OWNER&style=for-the-badge)
+![Public Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=Public%20Repos&query=public_repos&url=https://api.github.com/users/Bloop31&style=for-the-badge)
+
 
 ---
 
