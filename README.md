@@ -1,11 +1,12 @@
 # Hi 👋 I'm Prajjit
 
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Building+AI+Systems;Data+Science+Enthusiast)
-
+<p align="center">
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Building+AI+Systems;Data+Science+Enthusiast)
+</p>
  
 > *Making data behave since 2023 (and debugging it daily).*
 
+<p align="center">
 ## 📈 GitHub Analytics
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Bloop31&theme=tokyonight&hide_border=true)
@@ -19,6 +20,7 @@
 ![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bloop31&theme=tokyonight)
 
 ---
+</p>
 
 ## 🔬 Areas of Interest
 
