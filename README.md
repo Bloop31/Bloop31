@@ -18,8 +18,13 @@
 
 ## 📊 GitHub Overview
 
-![Repos](https://img.shields.io/github/repos-count/Bloop31?color=blue&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/Bloop31?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/Bloop31?affiliations=OWNER&style=for-the-badge)
+
+---
+
+## 📈 GitHub Analytics
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Bloop31&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -68,11 +73,6 @@ GUI-based Python application enabling non-technical users to clean and analyze d
 - 🧊 Cold Chain Monitoring Solution — Top-5 finalist at IIC Hackathon
 - 📜 Oracle Generative AI Professional
 
----
-
-## 📈 GitHub Analytics
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Bloop31&theme=tokyonight&hide_border=true)
 
 ---
 
