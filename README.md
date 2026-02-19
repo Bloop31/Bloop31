@@ -5,13 +5,13 @@
 ---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Bloop31&theme=radical&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Bloop31&theme=radical&hide_border=true&cache_seconds=0"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bloop31&theme=radical"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bloop31&theme=radical&cache_seconds=0"/>
 </p>
 
 <p align="center">
