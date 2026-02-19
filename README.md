@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Bloop31&theme=radical&hide_border=true&cache_seconds=0"/>
+  <img src="https://streak-stats.demolab.com?user=Bloop31&theme=radical&hide_border=true&cache_seconds=0&v=1"/>
 </p>
 
 ---
