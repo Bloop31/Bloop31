@@ -27,14 +27,12 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bloop31&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bloop31&bg_color=0d1117&color=00ffe4&line=00ffe4&point=ffffff&area=true&hide_border=true&v=2"/>
 </p>
 
----
-
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Bloop31&show_icons=true&theme=radical&hide_border=true&cache_seconds=0&v=1"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bloop31&layout=donut&theme=radical&hide_border=true&cache_seconds=0&v=1"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Bloop31&show_icons=true&theme=synthwave&hide_border=true&v=2"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bloop31&layout=donut&theme=synthwave&hide_border=true&v=2"/>
 </p>
 
 ---
