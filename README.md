@@ -4,15 +4,11 @@
 
 ---
 
-## 📈 GitHub Analytics
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Bloop31&theme=radical&hide_border=true"/>
 </p>
 
 ---
-
-## 📊 GitHub Overview
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bloop31&theme=radical&cache_seconds=0"/>
