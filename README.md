@@ -9,7 +9,6 @@
 </p>
 
 ---
-## Pacman Contribution Graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Bloop31/Bloop31/output/pacman.svg" />
