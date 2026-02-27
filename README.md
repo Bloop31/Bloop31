@@ -12,9 +12,12 @@
 ## Pacman Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Bloop31/Bloop31/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Bloop31/Bloop31/output/pacman-contribution-graph.svg" />
 </p>
 
+<p align="center">
+  <i>Auto-generated every 12 hours via GitHub Actions.</i>
+</p>
 ---
 
 <p align="center">
