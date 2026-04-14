@@ -17,6 +17,14 @@
 
 ---
 
+## Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,fastapi,docker,sqlite,mysql,git,github,vscode,postman,aws" />
+</p>
+
+---
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bloop31&theme=react-dark"/>
 </p>
