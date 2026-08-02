@@ -5,15 +5,8 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bloop31&show_icons=true&theme=radical"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Bloop31&theme=radical"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bloop31&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bloop31&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bloop31&layout=compact&langs_count=8&theme=radical"/>
 </p>
 
 ---
