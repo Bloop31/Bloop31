@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3500&pause=800&color=BD93F9&center=true&vCenter=true&width=700&lines=experimenting+with+data+and+models;long+way+to+go"/>
+  <img src="[https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3500&pause=800&color=BD93F9&center=true&vCenter=true&width=700&lines=experimenting+with+data+and+models;long+way+to+go](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3500&pause=800&color=BD93F9&center=true&vCenter=true&width=700&lines=experimenting+with+data+and+models;long+way+to+go)"/>
 </p>
 
 ---
