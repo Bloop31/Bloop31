@@ -7,6 +7,10 @@
 ## 📫 Connect
 
 <p align="center">
+<a href="https://prajjit-basu.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-BD93F9?style=for-the-badge&logo=vercel&logoColor=black"/>
+</a>
+
 <a href="https://github.com/Bloop31">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
